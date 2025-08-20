@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="symbolos_logo_transparent.png" alt="Symbolos Logo" width="300"/>
+</p>
+
 # Symbolos
 
 **Symbolos** ist ein leichtgewichtiges Symbolformat für die strukturierte Kommunikation zwischen AIs.  
