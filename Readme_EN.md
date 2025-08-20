@@ -1,4 +1,9 @@
-Symbolos
+
+<p align="center">
+  <img src="symbolos_logo_transparent.png" alt="Symbolos Logo" width="300"/>
+</p>
+
+# Symbolos
 
 Symbolos is a lightweight symbolic format for structured communication between AIs.
 Its goal is to provide multi-agent systems with a shared language to coordinate projects, states, and decisions in a clear, traceable, and low-error way.
